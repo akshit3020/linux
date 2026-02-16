@@ -1,0 +1,1 @@
+console.log("Kernel: arch/x86/boot/bzImage is ready  (#1)")
